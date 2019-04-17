@@ -1,4 +1,4 @@
-#Projekt stworzony do obsługi sygnalizacji świetlnej realizowany na platformie Raspberry Pi 
+#Projekt stworzony do obsługi ulicznej sygnalizacji świetlnej realizowany na platformie Raspberry Pi 
 #Importowanie bibliotek do obsługi GPIO, timera
 import RPi.GPIO as GPIO
 import time
